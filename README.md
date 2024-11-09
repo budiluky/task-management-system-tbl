@@ -29,7 +29,8 @@ etc.
 
 The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
-How to Run
+How to Run :
+
 Download the source code and extract the zip file.
 
 Download or set up any local web server that runs PHP script.
