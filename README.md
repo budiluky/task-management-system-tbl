@@ -30,4 +30,5 @@ Open a web browser and browse the project. E.g [http://localhost/task_management
 
 Admin Access
 Email: adminluki@gmail.com
+
 Password: adminluki
