@@ -10,14 +10,23 @@ How the System Works
 The Task Management System users can be only created by admin users. The admin user or the Project Managers will create a new project at first along with some important details and references of the users. When creating a project, the admin or project managers must list all the employees that will handle the project's tasks. After the creation of the project, the regular employees are limited only to adding their work progress for the task of the project that they are assigned. They are also allowed to edit the data of the progress that they only submitted. Then, as the employees regularly updating the system about the progress they have done the project managers will read or scan their activities so the project manager can check or decide if the certain task is done and need to update the task status in the system. For the printable report of the system, only the admin users and project managers has an access to this function or feature of the system.
 
 Features:
+
 Login Page
+
 Home Page
+
 Project (CRUD Features)
+
 Task List Page
+
 Progress Form
+
 Report Generation
+
 User (CRUD Features)
+
 etc.
+
 The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
 How to Run
@@ -28,7 +37,8 @@ Import the SQL file located in the database folder of the source code.
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 Open a web browser and browse the project. E.g [http://localhost/task_management_system]
 
-Admin Access
+Admin Access :
+
 Email: adminluki@gmail.com
 
 Password: adminluki
